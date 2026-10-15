@@ -1,0 +1,38 @@
+{
+  "dataset": "Scikit-learn Breast Cancer Wisconsin Diagnostic (built-in benchmark)",
+  "rows": 569,
+  "predictor_count": 30,
+  "benign_count": 357,
+  "malignant_count": 212,
+  "clustering_best_kmeans_k_by_silhouette": 2,
+  "clustering_best_kmeans_silhouette": 0.3449740051034408,
+  "clustering_best_kmeans_ari_posthoc": 0.6707206476880808,
+  "pca_pc1_variance_ratio": 0.44272025607526355,
+  "pca_pc2_variance_ratio": 0.1897118204403308,
+  "pca_two_component_cumulative_variance_ratio": 0.6324320765155944,
+  "supervised_train_shape": [
+    455,
+    30
+  ],
+  "supervised_test_shape": [
+    114,
+    30
+  ],
+  "best_supervised_model_by_test_roc_auc": "Logistic Regression",
+  "best_supervised_model_cv_auc": 0.9957688338493291,
+  "best_supervised_model_test_auc": 0.996031746031746,
+  "best_supervised_model_confusion_matrix_labels_order": [
+    "Benign (0)",
+    "Malignant (1)"
+  ],
+  "best_supervised_model_confusion_matrix": [
+    [
+      71,
+      1
+    ],
+    [
+      3,
+      39
+    ]
+  ]
+}

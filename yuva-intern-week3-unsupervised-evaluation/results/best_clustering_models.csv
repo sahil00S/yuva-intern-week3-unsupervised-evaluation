@@ -1,0 +1,3 @@
+algorithm,n_clusters,silhouette_score,adjusted_rand_index_vs_diagnosis,inertia
+Agglomerative (Hierarchical),2,0.33938477753669855,0.5750409366326297,
+K-Means,2,0.3449740051034408,0.6707206476880808,11595.461473962347

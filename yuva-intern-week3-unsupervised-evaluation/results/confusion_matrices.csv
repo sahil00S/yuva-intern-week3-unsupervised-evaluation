@@ -1,0 +1,9 @@
+model,actual_diagnosis,predicted_diagnosis,count
+Logistic Regression,Benign,Benign,71
+Logistic Regression,Benign,Malignant,1
+Logistic Regression,Malignant,Benign,3
+Logistic Regression,Malignant,Malignant,39
+Random Forest,Benign,Benign,72
+Random Forest,Benign,Malignant,0
+Random Forest,Malignant,Benign,4
+Random Forest,Malignant,Malignant,38

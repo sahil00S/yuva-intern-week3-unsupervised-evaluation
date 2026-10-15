@@ -1,0 +1,11 @@
+model,fold,validation_roc_auc
+Logistic Regression,1,0.9948400412796697
+Logistic Regression,2,0.9989680082559339
+Logistic Regression,3,1.0
+Logistic Regression,4,0.9871001031991744
+Logistic Regression,5,0.9979360165118679
+Random Forest,1,0.9834881320949432
+Random Forest,2,1.0
+Random Forest,3,0.9938080495356038
+Random Forest,4,0.9855521155830753
+Random Forest,5,0.9827141382868937

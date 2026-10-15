@@ -1,0 +1,3 @@
+model,test_accuracy,test_precision_malignant,test_recall_malignant,test_f1_malignant,test_roc_auc,cv_best_mean_roc_auc,cv_to_test_auc_gap,best_params,true_benign_pred_benign,benign_pred_malignant_false_positive,malignant_pred_benign_false_negative,true_malignant_pred_malignant
+Logistic Regression,0.9649122807017544,0.975,0.9285714285714286,0.9512195121951219,0.996031746031746,0.9957688338493291,-0.00026291218241691894,"{""model__C"": 1.0, ""model__class_weight"": null}",71,1,3,39
+Random Forest,0.9649122807017544,1.0,0.9047619047619048,0.95,0.9940476190476191,0.9891124871001032,-0.004935131947515825,"{""model__max_depth"": 8, ""model__min_samples_leaf"": 1, ""model__n_estimators"": 200}",72,0,4,38
